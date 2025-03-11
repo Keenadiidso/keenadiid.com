@@ -1,0 +1,114 @@
+
+/*Qurxinta qoralka*/
+body {
+  font-size:1em; /*1em=16px*/
+  font-family:"Times New Roman",serif;
+  line-height:1.4em;
+}
+
+h1 {
+  font-family:"Times New Roman",Garamond,Georgia,serif;
+  font-weight:lighter;
+  font-size:3.23em;
+}
+
+h2 {
+  font-family:"Times New Roman",Garamond,Georgia,serif;
+  font-weight:lighter;
+  font-size:2.42em;
+  line-height:1.5em;
+}
+
+h3 {
+  font-family:"Times New Roman",Garamond,Georgia,serif;
+  font-weight:lighter;
+  font-size:1.61em;
+}
+
+/*ballarinta ereyada*/
+dt {font-weight:600;}
+
+/*ereyada oo dhexda ku urruuriyey*/
+main {margin:auto;max-width:50em;}
+
+/*badhan billow ku dhiga*/
+nav {
+  margin:auto;
+  max-width:50em;
+  border-bottom:1px solid #000;
+}
+
+nav header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+#faashan {
+  padding:1px;
+  border:1px solid #f00;
+  border-radius:3.125em;
+  font-size:0.3em;
+}
+
+#faashan:hover {
+  color:#fff;
+  background-color:#f00;
+  cursor:pointer;
+}
+
+#badhan-kor {
+  position:fixed;
+  bottom:0em;
+  right:0em;
+  margin:1em;
+  width:2em;
+  padding:0.75em;
+  border:1px solid #000000;
+  text-align:center;
+  text-decoration:none;
+  line-height:0.875em;
+  color:#000000;
+  background-color:#ffffff;
+}
+
+#badhan-kor:hover {color:#ffffff;background-color:#000000;}
+
+footer {
+  display:flex;
+  justify-content:space-between;
+  margin:auto;
+  max-width:50em;
+  padding:1em;
+  color:#c9c9c9;
+}
+
+/*xogta Keenadiid aruuri*/
+#fariin a {
+  display:inline-block;
+  position:fixed;
+  top:-4px;
+  left:10px;
+  padding:0.2em 1em;
+  font-size:0.725em;
+  text-decoration:none;
+  border:1px solid #f00;
+  color:#111;
+  background-color:#fff;
+}
+
+#fariin a:hover {
+  color:#fff;
+  background-color:#f00;
+}
+
+#fariin a span {
+  font-size:1.5em;
+}
+
+@media only screen and (max-width:600px) {
+  nav header {
+    display:block;
+    text-align:center;
+  }
+}
