@@ -1,32 +1,45 @@
 
 /*Qurxinta qoralka*/
 body {
-  font-size:1em; /*1em=16px*/
-  font-family:"Times New Roman",serif;
-  line-height:1.4em;
+  line-height:1.6em;
+  font-size:0.875em; /*1em=16px*/
+  font-family:Verdana,Garamond,Georgia,"Times New Roman",serif;
 }
 
 h1 {
-  font-family:"Times New Roman",Garamond,Georgia,serif;
+  font-family:Verdana,Garamond,Georgia,"Times New Roman",serif;
   font-weight:lighter;
   font-size:3.23em;
 }
 
 h2 {
-  font-family:"Times New Roman",Garamond,Georgia,serif;
+  font-family:Verdana,Garamond,Georgia,"Times New Roman",serif;
   font-weight:lighter;
   font-size:2.42em;
   line-height:1.5em;
 }
 
 h3 {
-  font-family:"Times New Roman",Garamond,Georgia,serif;
+  font-family:Verdana,Garamond,Georgia,"Times New Roman",serif;
   font-weight:lighter;
   font-size:1.61em;
 }
 
+/*qurxinta tixaha*/
+pre {
+  white-space:pre-wrap; /* Since CSS 2.1 */
+  white-space:-moz-pre-wrap; /* Mozilla, since 1999 */
+  white-space:-pre-wrap; /* Opera 4-6 */
+  white-space:-o-pre-wrap; /* Opera 7 */
+  word-wrap:break-word; /* Internet Explorer 5.5+ */
+  line-height:1.5em;
+  font-family:Verdana,Garamond,Georgia,"Times New Roman",serif;
+}
+
 /*ballarinta ereyada*/
-dt {font-weight:600;}
+dt {
+ /* font-weight:600; */
+}
 
 /*ereyada oo dhexda ku urruuriyey*/
 main {margin:auto;max-width:50em;}
@@ -36,6 +49,19 @@ nav {
   margin:auto;
   max-width:50em;
   border-bottom:1px solid #000;
+}
+
+/*xogta Keenadiid aruuri*/
+#fariin a {
+  display:inline-block;
+  position:fixed;
+  top:-4px;
+  padding:0.2em 1em;
+  font-size:0.725em;
+  text-decoration:none;
+  border:1px solid #f00;
+  color:#111;
+  background-color:#fff;
 }
 
 nav header {
@@ -51,8 +77,11 @@ nav header {
   font-size:0.3em;
 }
 
+#fariin a:hover {
+  background-color:#f00;
+}
+
 #faashan:hover {
-  color:#fff;
   background-color:#f00;
   cursor:pointer;
 }
@@ -83,28 +112,6 @@ footer {
   color:#c9c9c9;
 }
 
-/*xogta Keenadiid aruuri*/
-#fariin a {
-  display:inline-block;
-  position:fixed;
-  top:-4px;
-  left:10px;
-  padding:0.2em 1em;
-  font-size:0.725em;
-  text-decoration:none;
-  border:1px solid #f00;
-  color:#111;
-  background-color:#fff;
-}
-
-#fariin a:hover {
-  color:#fff;
-  background-color:#f00;
-}
-
-#fariin a span {
-  font-size:1.5em;
-}
 
 @media only screen and (max-width:600px) {
   nav header {
