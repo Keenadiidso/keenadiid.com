@@ -104,8 +104,6 @@ nav header {
 #badhan-kor:hover {color:#ffffff;background-color:#000000;}
 
 footer {
-  display:flex;
-  justify-content:space-between;
   margin:auto;
   max-width:50em;
   padding:1em;
