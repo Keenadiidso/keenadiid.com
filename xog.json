@@ -1,4 +1,79 @@
-"Keenadiid": {
-  "xog":{}
-  "ereyo":{}
+
+{ 
+  "Keenadiid":{
+
+    "xog":{},
+
+    "ereyo":{
+"A (a')":"Xarafka koowaad oo Alifka Soomaalida. Waa shaqal.",
+"-a":"(naxwe) qodob raaca ereyada lab oo kelida ah oo 6 shibbane ku dhammaada (c, h, kh, q, x iyo hamsa, sida: magac-a, daah-a, jookh-a, maraq-a, madax-a iyo go'-a).",
+"aa (ā)":"Xarafka «a» oo dheer.",
+"Aabayeelid (-da)":"U dan gelid; tixgelin.",
+"Aabayn (-ta)":["1. Tixgelin; aabayeelid; daryeelid;", "2. (weel) xoolayn."],
+"Aabbe (-ha)":"Qof lab oo wax dhalay; labada waalid kan lab (ama «aabbo»).",
+"Aabbur (-ka)":"Weel afka ka awda; dabool; fur.",
+"Aabburan":"Aabur la saaray; la daboolay; furaysan.",
+"Aabburid (-da)":"Weel dabool saarid; daboolid; furayn.",
+"Aabi (-ga)":"Arrin aan jid ahayn oo cid lagula kaco; gardarro; maag; daandaansi.",
+"Aabo (-ha)":"Tixgelis; danayn; aabayeel.",
+"Aad":["1. (º) Dhab; si daran.", "2. Adigu. "],
+"-aad":"Tiraab lagu dabakaro tirada oo muujiya jagada tiradaasi ku abbaaran tahay (saddex-aad 3d); shan-aad 5d; sagaal-aad 9d).",
+"Aadaan (-ka)":"Ereyo yar oo lagu dheeraysto oo dadka tukashada loogu yeero (ama  «addin»).",
+"Aadane (-ha)":"Intii nebi Aadan dhalay ka mid ah; dad; qof.",
+"Aaddan":"Ku abbaaran; toosan; eg; beegan.",
+"Aaddanaan (-ta)":"Ku abbaarnaan; toosnaan; ekaan; beegnaan.",
+"Aadid (-da)":"Meel u socosho; tegid.",
+"Aafeyn (-ta)":"Aafo gaarsiin.",
+"Aafo (-da)":"Dhibaato aad u weyn. ",
+"Aagaan":["1. (-ka) Furka aagaamaha iyo baamaha lagu daboolo.", "2. (-ta) Haan yar. "],
+"Aakhir (-ka)":"Kan danbe.",
+"Aakhiro (-da)":"Meesha iyo nolosha danbe oo lagu noolaan doono, kolka adduunka laga tago. ",
+"Aalaa":"Inta badan; badanaa; dhaaxa; qajeel. ",
+"Aalad (-da)":"Alaabo wax lagu qabsado; qalab; hub. ",
+"Aaladeyn (-ta)":" Aalad u yeelid; qalabayn; bubayn; qurxin. ",
+"-aale":"Erey ulajeeddadiisu u dhowdabay «kasta», «walba»,  «alla» (sida «had iyo goor-aale», «wax alla ama allaale»). ",
+"Aalkol* (-ka)":"Biyabbiyood aan midab lahayn, oo ur sillan, oo daarmi og, oo baabbi'i og, oo siyaalo badan loo soo saaro, waxna loogu qabsado, (ama «aalkolo»).", 
+"Aalo (-da)":"Qaalmaha yaryar oo lo'da.",
+"Aameel (-ka)":["1. Harrub.", "2. Wixii waxay arkaan iska raaca."],
+"Aammiin (-ta)":"Erey ducada daba­deeda la yiraahdo oo ulajeeddadiisu tahay «ilaahow aqbal».",
+"Aammin":["1. (qof) Aan dhagar iyo laqdabo  aqoon;  daacad;  lillaahi.","2. (meel, kd.) nabad ah; aan cabsi lahayn."],
+"Aamminid (-da)":"Kalsooni u qabid; rumaysasho.",
+"Aamminnimo (-da)":"Aammin ahaan­sho; daacadnimo; lillaahinnimo.",
+"Aammus (-ka)":"Hadal la'aan; shib.",
+"Aammusan":"Aan hadla hayn; shib ah.",
+"Aammusid (-da)":"Hadal joojin.",
+"Aammusin (-ta)":"Hadal u diidid ama ku celin, hadal ka joojin.",
+"Aammusnaan (-ta)":"Hadlid la'aan; shib ahaan.",
+"Aan":"(Aniga; aan; i; ii - annaga; innaga: aannu; na; noo) qofka hadla haya ama waxqora haya.",
+"Aanayn (-ta)":"Aano ku raadin ama darteed wax ku yeelid.",
+"Aanaysi (-ga)":"Godob u  raadsi; xigtaysi.",
+"Aano (-da)":"Xumaan hore oo lays gaarsiiyey oo in laga aarguto uurka lagu hayo; godob; utun; asaaye; aarsi; dakano.",
+"Aar (-ka)":["1. Libaax weyn oo lab.","2. Aan biqin; geesi.","3. Aarsi."], 
+"Aaran (-ka)":["1. Qaalmaha yaryar oo geela; qaan.","2. Doog iyo bar­waaqo."],
+"Aarbax (-a)":"Eedbax.",
+"Aarbixid (-da)":"Eedbixid.",
+"Aargudasho (-da)":"Aarsasho; Aarid.",
+"Aargudid (-da)":"Aarid.",
+"Aarid (-da)":"Qof hor loo diley darti, qof u dilid; aargudid.",
+"Aarnimo (-da)":"Aar ahaansho; geesinnimo.",
+"Aarsasho (-da)":"Aargudasho.",
+"Aarsi (-ga)":"Aargudad; aarsad.",
+"Aas (-ka)":["1. Xabaasha (dadka dhinta) iyo waxa ku saabasan; duug.","2. Iftiinka midabyada leh oo qor­raxdhaca; cirguduud; cilcillow."],
+"Aasan":"La xabaalay; la duugey.",
+"Aashaa (aash-)":"Si miyir iyo xasil­loonaani ku jirto; aayar, tartiib.",
+"Aashuun (-ka)":"Weel biyaha lagu shubto oo laga sameeyey dhoobo; malbo; jalxad; shaanbi; ballaas.",
+"Aasid (-da)":"Xabaal ku ridid; duugid; xabaalid.",
+"Aasmid (-da)":"Xabaalmid; duugmid.",
+"Aasnaan (-ta)":"Wax la xabaalay ahaan; xabaalnaan.",
+"Aaway?":"Xaggee buu (ama «bay») jiraa (ama «jirtaa?»); Meeyey? Meeday? (ama «away?»).",
+"Aawo (-da)":"Daraad; dar; aw.",
+"Aayad (-da)":["1. Suurad  quraan, tixaha ay ka kooban tahay, mid­diiba.","2. Wax aan hor loo arki jirin oo yaab leh.","3. Mucjiso."],
+"Aayar":"Si deggan oo miyir leh; qunyar; tartiib; xasil.",
+"Aayatiin (-ka)":"Waxtar aan durba dhalane, waa danbe, oo iyadana loo baahan yahay, la filana hayo oo loogu talaggalo; waxtar raaga; cirib­danbeed; meecaad.",
+"Aayid (-da)":"Wax raagey ama dib loo dhigay, waa danbe oo loo baa­han yahay, waxtarkooda helid, ku tabkicid.",
+"Aayo":["1. (-da) («waa shedan tahay») Carruurta hooyadood maahee, oorida  kale,  oo  aahbahood  qabo.","2. (-ha) Waxtar waa danbe wax laga dheefo; ciribdanbeed; aayatiin; meecaad; liil danbe; (ama «aaye»). "]
+    }
+
+  }
+
 }
